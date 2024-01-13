@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap:16px;
+    margin-right: 20px;
+    }
+    
+    .nav li{
+      list-style: none;
+    }
+    .nav li a{
+      color: #fff;
+    }
